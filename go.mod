@@ -1,4 +1,4 @@
-module polynom
+module github.com/Fishermanljh/polynom
 
 go 1.18
 
